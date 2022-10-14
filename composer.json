@@ -1,5 +1,5 @@
 {
-  "name": "overtrue/laravel-follow",
+  "name": "aytaceminoglu/laravel-follow",
   "description": "User follow unfollow system for Laravel.",
   "license": "MIT",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "laravel/framework": "^9.0"
+    "laravel/framework": "^8.0"
   },
   "autoload": {
     "psr-4": {
