@@ -6,10 +6,10 @@ use Overtrue\LaravelFollow\Followable;
 
 class Event
 {
-    public int|string $followable_id;
-    public int|string $followable_type;
-    public int|string $follower_id;
-    public int|string $user_id;
+    public int $followable_id;
+    public int $followable_type;
+    public int $follower_id;
+    public int $user_id;
 
     protected Followable $relation;
 
